@@ -24,11 +24,8 @@ Bu proje, Unity kullanılarak geliştirilmiş basit bir **2D platform oyunu**dur
 
 ## 📷 Ekran Görüntüleri
 
-🎮 Oyun İçinden Bir Görsel
-<img src="Masaüstü/image1.png" alt="İlk Seviye" width="600"/>
-
 🛠️ Unity Arayüzü
-<img src="Masaüstü/image2.png" alt="Unity Arayüzü" width="600"/>
+<img src="https://github.com/byzakeskin/The-Devil-s-Dungeon/blob/main/image2.png" alt="Unity Arayüzü" width="600"/>
 
 ---
 
