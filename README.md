@@ -1,6 +1,6 @@
-# The Devil's Dungeon(TAMAMLANMADI)
+# A Night in the Devils Castle (TAMAMLANMADI)
 
-Bu proje, Unity kullanılarak geliştirilmiş basit bir **2D platform oyunu**dur.
+Bu proje, Unity kullanılarak geliştirilmiş basit bir **2D platform oyunudur**.
 
 ---
 
